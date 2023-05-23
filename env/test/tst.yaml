@@ -1,0 +1,3 @@
+test:
+  - name: tst/dev
+    tag: 0.0.1

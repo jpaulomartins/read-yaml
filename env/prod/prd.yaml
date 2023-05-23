@@ -1,0 +1,3 @@
+prod:
+  - name: prd/stable
+    tag: 0.0.1
